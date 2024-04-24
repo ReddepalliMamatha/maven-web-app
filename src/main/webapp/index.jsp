@@ -6,7 +6,7 @@
   
   <h2> Call Us : + 9986578988</h2>
   
-  <h3> Ofc Location : Ameerpet, hydrebad </h3>
+  <h3> Ofc Location : Ameerpet, banglore </h3>
 
 </body>
 </html>
