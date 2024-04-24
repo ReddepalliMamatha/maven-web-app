@@ -6,7 +6,7 @@
   
   <h2> Call Us : + 9985396677</h2>
   
-  <h3> Ofc Location : Ameerpet, bangalore </h3>
+  <h3> Ofc Location : Ameerpet, Benguluru </h3>
 
 </body>
 </html>
